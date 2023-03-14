@@ -10,7 +10,9 @@
   "license": "ISC",
   "dependencies": {
     "args-command-parser": "^1.2.5",
+    "fs": "^0.0.1-security",
     "glob": "^9.2.1",
-    "walk": "^2.3.15"
+    "walk": "^2.3.15",
+    "walker": "^1.0.8"
   }
 }
